@@ -1,16 +1,21 @@
 {
   "agents": [
-    [19, 19],
-    [120, 50],
-    [10, 100],
-    [240, 240],
-    [60, 180]
+    { "x": 19, "z": 19 },
+    { "x": 12, "z": 10 },
+    { "x": 1, "z": 3 },
+    { "x": 6, "z": 6 },
+    { "x": 22, "z": 9 }
   ],
   "semaphores": [
     false,
-    true,
+    false,
+    false,
+    false,
     false,
     true,
-    false
+    true,
+    true,
+    true,
+    true
   ]
 }
